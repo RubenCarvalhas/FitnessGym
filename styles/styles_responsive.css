@@ -71,3 +71,10 @@
     }
 }
 
+
+@media (max-width: 375px) {
+    .right-side-nav svg {
+        width: 200px; 
+        height: auto; 
+    }
+}

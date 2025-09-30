@@ -25,3 +25,5 @@ const leftNav = document.querySelector('.left-side-nav');
 hamburger.addEventListener('click', () => {
     leftNav.classList.toggle('active');
 });
+
+
