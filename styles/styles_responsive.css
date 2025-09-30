@@ -69,6 +69,10 @@
     .hamburger.active i:before {
         content: "\f00d"; 
     }
+
+    .second-card{
+        border: 1px solid black;
+    }
 }
 
 
